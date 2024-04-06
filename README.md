@@ -3,3 +3,4 @@ Revolutionizing firefighting, our remote-controlled robot battles blazes in haza
 
 
 ![Remote Wiring Diagram]([http://url/to/img.png](https://github.com/mahbubzone/remote-controled-firebot/blob/main/Remote_Wring_Diagram.png))
+![alt text](https://github.com/mahbubzone/remote-controled-firebot/blob/main/Remote_Wring_Diagram.png)
